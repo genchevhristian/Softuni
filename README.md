@@ -1,1 +1,1 @@
-# Softuni
+# SoftUni
